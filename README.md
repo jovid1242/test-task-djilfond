@@ -20,7 +20,7 @@ Project uses a number of open source projects to work properly:
 -   [React-Toastify](https://www.npmjs.com/package/react-toastify) - React notification made easy.
 -   [Random Image API](https://random.responsiveimages.io/) - Random Image API
 
-# TESTING (seacrh)
+# TESTING (search)
 
 Enter text to search: Bret, Antonette 
 
