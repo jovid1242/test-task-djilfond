@@ -1,0 +1,17 @@
+.Input {
+    input {
+        width: 100%;
+        height: 46px;
+        padding: 16px;
+        border-radius: 8px;
+        border: 1.5px solid #e9ecef;
+        background: #fff;
+        outline: none;
+        transition: 0.5s ease-in-out;
+
+        &:focus {
+            transition: 0.5s ease-in-out;
+            border: 1.5px solid #000;
+        }
+    }
+}

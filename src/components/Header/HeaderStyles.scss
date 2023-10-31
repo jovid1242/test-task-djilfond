@@ -1,0 +1,27 @@
+.Header {
+    width: 100%;
+
+    &-wrapper {
+        margin: 50px 0;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        &__logo {
+            color: #e31f24;
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+        }
+
+        &__action {
+            color: #333; 
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+    }
+}
